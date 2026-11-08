@@ -1,0 +1,17 @@
+{
+  "errors": [],
+  "frozen": true,
+  "executable": "<payload della Release>/AtlanteFormule.exe",
+  "utc": "2026-11-08T23:02:52.434698+00:00",
+  "catalog_size": 988,
+  "sections": true,
+  "icons": true,
+  "section_navigation": true,
+  "mathjax": true,
+  "calculator": true,
+  "integer64": true,
+  "symbolic": true,
+  "boolean": true,
+  "karnaugh": true,
+  "ok": true
+}

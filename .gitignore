@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+vendor/node_modules/
+*.zip
+verifiche/*-profile/
+
+# Distribuzioni nelle GitHub Releases, non nella cronologia Git.
+dist/
+build/
+.cache/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+progetti/

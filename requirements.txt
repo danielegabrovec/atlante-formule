@@ -1,0 +1,7 @@
+PyQt6==6.11.0
+PyQt6-WebEngine==6.11.0
+sympy==1.14.0
+numpy==2.5.4
+matplotlib==3.11.2
+pint==0.26.2
+rapidfuzz==3.14.6

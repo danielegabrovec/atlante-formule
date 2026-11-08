@@ -1,0 +1,17 @@
+{
+  "errors": [],
+  "frozen": true,
+  "executable": "C:\\Users\\danie\\Desktop\\Software in sviluppo\\Formule Matematiche e Fisiche\\dist\\AtlanteFormule\\AtlanteFormule.exe",
+  "utc": "2026-10-25T22:47:55.813307+00:00",
+  "catalog_size": 988,
+  "sections": true,
+  "icons": true,
+  "section_navigation": true,
+  "mathjax": true,
+  "calculator": true,
+  "integer64": true,
+  "symbolic": true,
+  "boolean": true,
+  "karnaugh": true,
+  "ok": true
+}

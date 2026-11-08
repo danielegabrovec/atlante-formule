@@ -1,0 +1,274 @@
+{
+  "checked_utc": "2026-10-25T22:42:20.500492+00:00",
+  "note": "Un HTTP 200 verifica l’accesso alla pagina, non certifica le formule. Timeout e blocchi non dimostrano che un riferimento sia inesistente.",
+  "results": [
+    {
+      "url": "http://incompleteideas.net/book/the-book-2nd.html",
+      "status": 200,
+      "final_url": "http://incompleteideas.net/book/the-book-2nd.html",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://arxiv.org/abs/1706.03762",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://computationstructures.org/notes/combinational_logic/notes.html",
+      "status": 200,
+      "final_url": "https://computationstructures.org/notes/combinational_logic/notes.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://computationstructures.org/notes/performance/notes.html",
+      "status": 200,
+      "final_url": "https://computationstructures.org/notes/performance/notes.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://computationstructures.org/notes/sequential_logic/notes.html",
+      "status": 200,
+      "final_url": "https://computationstructures.org/notes/sequential_logic/notes.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://cs229.stanford.edu/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://docs.python.org/3/tutorial/classes.html",
+      "status": 200,
+      "final_url": "https://docs.python.org/3/tutorial/classes.html",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://docs.pytorch.org/docs/stable/notes/ddp.html",
+      "status": 200,
+      "final_url": "https://docs.pytorch.org/docs/stable/notes/ddp.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://doi.org/10.1016/0022-2836(70)90057-4",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://doi.org/10.1111/j.2517-6161.1995.tb02031.x",
+      "status": 403,
+      "accessible": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://fbsbook.org/",
+      "status": 500,
+      "accessible": false,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "url": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+      "status": 200,
+      "final_url": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+      "content_type": "text/html; charset=UTF-8",
+      "accessible": true
+    },
+    {
+      "url": "https://mathcs.clarku.edu/~djoyce/elements/Euclid.html",
+      "status": 200,
+      "final_url": "https://mathcs.clarku.edu/~djoyce/elements/Euclid.html",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://modernrobotics.northwestern.edu/nu-gm-book-resource/",
+      "status": 200,
+      "final_url": "https://modernrobotics.northwestern.edu/nu-gm-book-resource/",
+      "content_type": "text/html; charset=UTF-8",
+      "accessible": true
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/",
+      "status": null,
+      "accessible": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>"
+    },
+    {
+      "url": "https://openstax.org/books/precalculus-2e/pages/10-introduction-to-analytic-geometry",
+      "status": 200,
+      "final_url": "https://openstax.org/books/precalculus-2e/pages/10-introduction-to-analytic-geometry",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/books/precalculus-2e/pages/7-introduction-to-trigonometric-identities-and-equations",
+      "status": 200,
+      "final_url": "https://openstax.org/books/precalculus-2e/pages/7-introduction-to-trigonometric-identities-and-equations",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/calculus-volume-1",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/calculus-volume-1",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/calculus-volume-2",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/calculus-volume-2",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/calculus-volume-3",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/calculus-volume-3",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/introductory-statistics-2e",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/introductory-statistics-2e",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/precalculus-2e",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/precalculus-2e",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/university-physics-volume-1",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/university-physics-volume-1",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/university-physics-volume-2",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/university-physics-volume-2",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://openstax.org/details/books/university-physics-volume-3",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/university-physics-volume-3",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "status": 200,
+      "final_url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7265238/",
+      "status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/7265238/",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://quantum.cloud.ibm.com/learning/courses/basics-of-quantum-information",
+      "status": 200,
+      "final_url": "https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://szeliski.org/Book/",
+      "status": 200,
+      "final_url": "https://szeliski.org/Book/",
+      "content_type": "text/html; charset=UTF-8",
+      "accessible": true
+    },
+    {
+      "url": "https://web.stanford.edu/~boyd/cvxbook/",
+      "status": 200,
+      "final_url": "https://web.stanford.edu/~boyd/cvxbook/",
+      "content_type": "text/html",
+      "accessible": true
+    },
+    {
+      "url": "https://www.deeplearningbook.org/",
+      "status": 200,
+      "final_url": "https://www.deeplearningbook.org/",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://www.deeplearningbook.org/contents/ml.html",
+      "status": 200,
+      "final_url": "https://www.deeplearningbook.org/contents/ml.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    },
+    {
+      "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+      "status": 200,
+      "final_url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+      "content_type": "text/html; charset=utf-8",
+      "accessible": true
+    }
+  ]
+}
